@@ -17,5 +17,9 @@ CREATE ACCOUNT:
 On create account section, first you have to enter name if that name registered in our bank it shows it already registered or created.But if you dont have account it will tell you to create your account and enter your name,address letters only,date of birth in letters only,Nic Number,Phone Number and then you have to set your pincode only 4 digits.
 Now you have account in our bank and also 5000 rupees gift from our bank in your account.
 
+
+
+YOU CAN ALSO PAY FEES OF COLLEGE/UNIVERSITY IN BANK , JUST LIKE REAL-TIME!
+
 Thank You :)
 
